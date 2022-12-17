@@ -7,6 +7,6 @@ namespace PROJECT_
     class Hospital
     {
         public List<employee> Hospitalemployee = new List<employee> {  };
-        public Dictionary<employee, List<DateTime>> Calendar = new Dictionary<employee, List<DateTime>> { }; //bunu sil ben bunun anasını sikiyim
+        public Dictionary<employee, List<DateTime>> Calendar = new Dictionary<employee, List<DateTime>> { }; 
     }
 }
