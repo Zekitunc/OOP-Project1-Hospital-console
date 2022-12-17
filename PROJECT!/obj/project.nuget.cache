@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z/16S6QZQM6xSQVzTl/K7541trKWtLNcQ9Oht+rorYSAE6By7NbcfFhmmPXAEppaA7ld31VbGlqEcbHc/ERtfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\pzx109843 OOP project1 done\\PROJECT!\\PROJECT!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cansu\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Cansu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
