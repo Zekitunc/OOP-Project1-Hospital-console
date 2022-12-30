@@ -4,7 +4,7 @@ namespace PROJECT_
 {
     class Program //specialation needded for doctors delete the normal doctor
     {
-        static void Main(string[] args) //Completed But never tested
+        static void Main(string[] args) 
         {
             var HospitalA = new Hospital(); //Our hospital       
             administrator.Addadmin(HospitalA, "zeki", "Tuncdoken", "1", "1", "1");
@@ -14,7 +14,7 @@ namespace PROJECT_
             string inputnumber;
             string name, surname, pesel, username, password,pwz;
 
-            employee CurrentUser = new employee(null, null, null, null, null);
+            employee CurrentUser = null;
             //login page
             while (true)
             {
@@ -40,7 +40,8 @@ namespace PROJECT_
                 }
                 if (CurrentUser is Doctor || CurrentUser is Nurse) //doctor and nurse
                 {
-                    Console.WriteLine("Welcome! "+CurrentUser.Name);
+                    
+                    Console.WriteLine("Welcome! "+ CurrentUser.Name);
                     while (true)
                     {
                         Console.WriteLine("What do you want?" +

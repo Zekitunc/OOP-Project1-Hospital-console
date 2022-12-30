@@ -29,3 +29,20 @@ C:\Users\Cansu\Desktop\WSB\Obj Oriented\pzx109843 OOP project1 done\PROJECT!\obj
 C:\Users\Cansu\Desktop\WSB\Obj Oriented\pzx109843 OOP project1 done\PROJECT!\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Cansu\Desktop\WSB\Obj Oriented\pzx109843 OOP project1 done\PROJECT!\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\Cansu\Desktop\WSB\Obj Oriented\pzx109843 OOP project1 done\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.csproj.CopyComplete
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\PROJECT!.exe
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\PROJECT!.deps.json
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\PROJECT!.runtimeconfig.json
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\PROJECT!.runtimeconfig.dev.json
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\PROJECT!.dll
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\PROJECT!.pdb
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.csproj.AssemblyReference.cache
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.AssemblyInfoInputs.cache
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.AssemblyInfo.cs
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.csproj.CopyComplete
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.dll
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.pdb
+C:\Users\Cansu\Desktop\WSB\Obj Oriented\OOP-Project1-Hospital-console\PROJECT!\obj\Debug\netcoreapp3.1\PROJECT!.genruntimeconfig.cache

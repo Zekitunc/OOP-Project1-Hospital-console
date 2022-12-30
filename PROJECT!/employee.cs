@@ -4,13 +4,20 @@ using System.Text;
 
 namespace PROJECT_
 {
-    class employee //abstract class
+    abstract class employee //abstract class
     {
         public string Name { get;  set; }
         public string SurName { get;  set; }
-        public string PeselNumber { get;  set; }
-        public string UserName { get;  set; }
-        public string Password { get;  set; }
+
+        private string pesel;
+        public string PeselNumber { get { return pesel; } set { pesel = value; } }
+
+        private string userName;
+        public string UserName { get { return userName; }  set { userName = value; } }
+
+        private string password;
+        public string Password { get { return password; } set { password = value; } }
+
         public List<DateTime> CallOfDuty = new List<DateTime> { };
         public employee(string name,string surname,string pesel,string username,string password)
         {

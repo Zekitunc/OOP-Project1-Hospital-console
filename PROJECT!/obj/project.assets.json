@@ -98,11 +98,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\pzx109843 OOP project1 done\\PROJECT!\\PROJECT!.csproj",
+      "projectUniqueName": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\OOP-Project1-Hospital-console\\PROJECT!\\PROJECT!.csproj",
       "projectName": "PROJECT!",
-      "projectPath": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\pzx109843 OOP project1 done\\PROJECT!\\PROJECT!.csproj",
+      "projectPath": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\OOP-Project1-Hospital-console\\PROJECT!\\PROJECT!.csproj",
       "packagesPath": "C:\\Users\\Cansu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\pzx109843 OOP project1 done\\PROJECT!\\obj\\",
+      "outputPath": "C:\\Users\\Cansu\\Desktop\\WSB\\Obj Oriented\\OOP-Project1-Hospital-console\\PROJECT!\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cansu\\AppData\\Roaming\\NuGet\\NuGet.Config",
